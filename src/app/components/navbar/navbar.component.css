@@ -1,0 +1,7 @@
+.dropdown-item:hover{
+    background-color: rgb(2, 2, 27);
+    color: aliceblue;
+    font-size: large;
+    text-decoration: solid;
+    border: 2px solid rgb(230, 156, 86);
+}
